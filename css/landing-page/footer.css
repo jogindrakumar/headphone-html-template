@@ -1,0 +1,53 @@
+footer {
+    background: #4945BF;
+    padding: 80px 0;
+    text-align: center;
+    color: white;
+}
+
+footer h2 {
+    font-size: 3rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 20px;
+}
+
+footer h2 span {
+    font-weight: 700;
+    color: coral;
+}
+
+footer .menu {
+    margin-bottom: 20px;
+}
+
+footer .menu li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+footer .menu li a {
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: .8rem;
+}
+
+footer p {
+    font-size: .8rem;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+footer .social-media li {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+footer .social-media li a {
+    color: #B286F8;
+    font-size: 2rem;
+    opacity: .5;
+}
